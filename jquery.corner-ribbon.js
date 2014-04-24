@@ -61,7 +61,7 @@
 					'overflow': 'hidden',
 					'white-space': 'nowrap',
 					'letter-spacing': '0.9px',
-					'position': 'absolute',
+					'position': 'fixed',
 					'display': 'block',
 					'margin': '1px 0',
 					'padding': '10px 50px',
