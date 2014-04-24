@@ -7,7 +7,7 @@
  *
  * version : 1.0.0
  * Date    : April 23, 2014
- * Author  : Dan Giulvelzan
+ * Author  : Dan Giulvezan
  */
 (function (factory) {
 	if (typeof define === 'function' && define.amd) {
